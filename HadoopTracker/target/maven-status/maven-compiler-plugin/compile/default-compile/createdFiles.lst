@@ -1,0 +1,14 @@
+org\example\JobDetection\LoadDetectionMain.class
+org\example\HadoopConfig\HadoopConfiguration.class
+org\example\JobType\EmailHSD\HSDMapper.class
+org\example\JobType\EmailHSD\Regex.class
+org\example\JobType\EmailHSD\Hello.class
+org\example\JobType\EmailHSD\TagData.class
+org\example\JobType\EmailHSD\EmailHSD.class
+org\example\JobType\EmailHSD\DemoValidate.class
+org\example\JobType\MyJobTypeClasses.class
+org\example\Main.class
+org\example\JobType\EmailHSD\Variables.class
+org\example\JobType\EmailHSD\Validate.class
+org\example\DatabaseFiles\Database.class
+org\example\JobType\EmailHSD\HSDDriver.class

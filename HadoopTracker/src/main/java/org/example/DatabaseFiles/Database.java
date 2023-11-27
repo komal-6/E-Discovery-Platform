@@ -151,7 +151,6 @@ public class Database
         statusFile();
     }
 
-
    public static void statusFile() throws SQLException, IOException
     {
         File outputfile = new File("W:\\Komal\\JobFileStatus\\FileStatus.txt");
